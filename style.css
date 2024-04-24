@@ -1,0 +1,26 @@
+h2{
+    color:blueviolet;
+}
+body{
+    background-color: aqua;
+    color:whitesmoke;
+    font-family: roboto;
+    text-align: center;
+
+}
+
+header{
+    border-bottom: 1px solid bisque;
+}
+
+footer{
+    border-top: 1px solid bisque;
+}
+
+#nome-usuário{
+    font-weight: bold;
+}
+
+.texto-inglês{
+    font-style: italic;
+}
